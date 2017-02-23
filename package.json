@@ -1,6 +1,6 @@
 {
   "name": "http-tunnel-serv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Http tunnel for /api/* EndPoint",
   "main": "./bin/http-tunnel-serv",
   "scripts": {
