@@ -1,10 +1,14 @@
 {
   "name": "http-tunnel-serv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Http tunnel for /api/* EndPoint",
   "main": "./bin/http-tunnel-serv",
   "scripts": {
     "dev" : "node ./bin/http-tunnel-serv -t http://youdomain"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git://github.com/chernikov/http-tunnel-serv.git"
   },
   "dependencies": {
     "colors": "1.0.3",

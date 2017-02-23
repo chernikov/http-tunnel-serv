@@ -17,22 +17,6 @@ This will install `http-tunnel-serv` globally so that it may be run from the com
 
 `[path]` defaults to `./public` if the folder exists, and `./` otherwise.
 
-# Installing as a node app
-
-     mkdir myapp
-     cd myapp/
-     jitsu install http-tunnel-serv
-
-*If you do not have `jitsu` installed you can install it via `npm install jitsu -g`*
-
-## Usage
-
-### Starting http-server locally
-
-     node bin/http-tunnel-serv
-
-*Now you can visit http://localhost:8080 to view your server*
-
 ## Available Options:
 
 `-p` Port to use (defaults to 8080)
