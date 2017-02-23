@@ -6,6 +6,10 @@
   "scripts": {
     "dev" : "node ./bin/http-tunnel-serv -t http://youdomain"
   },
+  "keywords": [
+    "cli",
+    "command"
+  ],
    "repository": {
     "type": "git",
     "url": "git://github.com/chernikov/http-tunnel-serv.git"
